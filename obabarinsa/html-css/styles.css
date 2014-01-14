@@ -1,8 +1,9 @@
-span { color: blue;}
-.important { font-size: 40px;}
-.centered { text-align: center;}
-#book { background: pink;}
-.list { background: #CCC;
-        padding-left: 0px;
-        margin: 0px;
-        border: 4px solid blue;}
+h1 {color: white;}
+h1 {background: rgb(0,0,139);}
+h1{padding: 20px;}
+.ptext {color: gray;}
+.box1 {border: solid blue 1px ; padding : 20px 20px 20px 0px;}
+.box2 {border: solid blue 1px;}
+.page {margin: 20px; font-family: Arial;}
+hr {margin-top: -1em; margin-bottom: 20px; height: 1px; }
+
